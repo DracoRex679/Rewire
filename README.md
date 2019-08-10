@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My New Page
 
-You can use the [editor on GitHub](https://github.com/DracoRex679/Rewire/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This seems like a great place to start placing some of the code that I work on in my free time and perhaps work on other projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Major
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm currently working on my Master's for Computer Science and considering what concentration to go into.
 
 ```markdown
-Syntax highlighted code block
+Here's some links to some of my older work:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DracoRex679/Rewire/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# DarkRReaper.com
+This is my own site for blogging. I have also created 2 other sites one for review and one for news updates. I don't often find a whole lot to put into news updates as things are usually out before I have a chance to update them.
+## ProjectInklud.com
+I woked on the design for this website after my undergrad for one of my professors.It was one of the first websites that I created.
+### Coding Project
+Here's where I will list some of my current and ongoing Coding Projects in the future:
