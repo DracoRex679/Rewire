@@ -1,0 +1,60 @@
+<html>
+<head>
+    <style>
+    .border
+    {border-style:solid; border-color:red; border-width:1px}
+    </style>
+</head>
+<body title = "About Dark R. Reaper" style = "background-color:black;color:white;" > 
+
+<h1> 
+About Dark R.Reaper 
+</h1> 
+<p style = "font-family:courier;color:cyan;" > Dark R.Reaper is the author of Reaping:The Start of and Ending and the creator of 
+<a href ="http://www.DarkRReaper.com" style ="color:cyan;"> DarkRReaper.com </a >.
+<table class="border">
+<tr> 
+<th > 1 </th >
+<th > 2 </th >
+</tr >
+<tr >
+<th >5 </th > 
+<th > 6 </th >
+</tr >
+</table >
+<script>
+var cars=[1,5,7,8,1]
+</script>
+</p >
+<p id="cars">
+<script>document.getElementById("cars").innerHTML = cars[1]</script>
+<br>
+<script>document.write(cars)</script>
+</p>
+<p>
+    <script>var i;
+for
+(i=0; i< 5; i++) {
+  document.write(cars);
+  document.write(cars);
+}
+alert("new script running")
+  </script>
+  <br>
+  <button onclick="alert('https://www.amazon.com/Reaping-Start-Ending-Reaper-Cross-ebook/dp/B00HJBMINU')">Click to see my Amazon Website.</button>
+  <br>
+  <script>cars.sort();
+  document.write(cars);
+  </script>
+  <select name="Ocean">
+    <option value="Ocean">Ocean</option>
+    <option value="Land">Land</option>
+  </select>
+  <script>
+  var time = new Date();
+      year = time.getFullYear();
+      document.write(time)
+  </script>
+</p>
+</body >
+</html >
