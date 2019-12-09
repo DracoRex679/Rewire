@@ -1,0 +1,27 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    double miles;
+    double hours;
+    char answer1;
+    cout<<"Welcome to the mph speed calculator!\n\n";
+    cout<<"Please enter the amount of miles traveled.\n";
+    cin>> miles;
+    cout<<"\nPlease enter the amount of time in hours that it took.\n";
+    cin>> hours;
+    double speed = miles/hours;
+    cout<< "\nYou traveled at " << speed << "mph.\n Would you like to see how far you can travel over the course of 100 hours? Y/N\n";
+    cin >> answer1;
+    if (answer1 = "Y"||"y"){
+       for (int i=1; i < 101; i++){
+        cout << "In " << i << " hour(s) you can travel " << speed * i << " miles\n"; 
+           
+       }
+    } else {
+        return 0;
+    }
+    return 0;
+}
