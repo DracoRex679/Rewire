@@ -1,0 +1,32 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    start:
+    double h;
+    double a;
+    double b;
+    string continu;
+    cout<<"Welcome to the triangle sin/cos/tan calculator.\nWhat is the hypotenuse of the triangle?\n";
+    cin >> h;
+    cout <<"What is the opposite?\n";
+    cin >> a;
+    cout <<"What is the adjacent?\n";
+    cin >> b;
+    cout <<"The sin is " << a/h << ".\n";
+    cout <<"The cos is " << b/h << ".\n";
+    cout <<"The tan is " << a/b << ".\n";
+    question:
+    cout <<"Would you like to continue? (Y/N)\n";
+    cin >> continu;
+    if (continu == "Y") {
+        goto start;
+    } else if (continu == "N"){
+       return 0; 
+    } else {
+        goto question;
+    }
+    
+}
