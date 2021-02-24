@@ -74,11 +74,6 @@ def button_equal():
             entry.insert(0, first_num / float(second_number))
     elif math == "exponent":
             entry.insert(0, first_num ** float(second_number))
-
-def Click():
-    hello = "Hello " + entry.get()
-    myLabel = Label(root, text=hello)
-    myLabel.pack()
     
 oneButton = Button(root, text ="1", padx=40, pady=20, command=lambda: button_add(1))
 twoButton = Button(root, text ="2", padx=40, pady=20, command=lambda: button_add(2))
